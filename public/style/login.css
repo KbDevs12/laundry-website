@@ -1,0 +1,43 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    margin-top: 50px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    font-size: 24px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border: none;
+}
+.navbar {
+    background-color: aqua;
+}
+.navbar{
+    background-color: aqua;
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    transition: border-bottom 0.3s;
+}
+
+.navbar-nav .nav-link:hover {
+    border-bottom: 2px solid #007bff;
+}
